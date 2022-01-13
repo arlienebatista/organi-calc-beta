@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "OrganiCALC Beta",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}
